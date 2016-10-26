@@ -3,6 +3,8 @@ Cometutils
 
 An Astropy (http://astropy.org/) compatible package for working with cometary data.
 
+So far, this package does nothing.  See the Wiki for some ideas and planning.  Contributions are welcome.
+
 
 License
 -------
