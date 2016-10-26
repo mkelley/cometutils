@@ -1,7 +1,7 @@
 # Licensed under a 3-clause BSD style license - see LICENSE.rst
 
 """
-An Astropy affiliated package for analyzing cometary data.
+An Astropy compatible package for analyzing cometary data.
 """
 
 # Affiliated packages may add whatever they like to this file, but
