@@ -1,9 +1,9 @@
 Cometutils
 ==========
 
-An Astropy (http://astropy.org/) compatible package for working with cometary data.
+*Cometutils* was intended to be an Astropy (http://astropy.org/) compatible package for working with cometary data.  Instead, development will go forward with `sbpy`, currently at https://github.com/mommermi/sbpy.
 
-So far, this package does nothing.  See the Wiki for some ideas and planning.  Contributions will be welcome once work begins in earnest (potentially second-half of 2017?).  Coordination with Asteroidpy (https://github.com/mommermi/asteroidpy) is mandatory.
+This package does nothing.  See the Wiki for some ideas and planning.
 
 
 License
